@@ -1,0 +1,127 @@
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.corpo {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+nav {
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.Bichanos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.Bichanos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box; 
+}
+
+#gato1 {
+	width: 255px;
+	height: 340px;
+	padding: 5px;
+}
+
+#gato2 {
+	width: 255px;
+	height: 340px;
+	padding: 5px;
+}
+
+#gato3 {
+	width: 255px;
+	height: 340px;
+	padding: 5px;
+}
+
+.Bichanos h2 {
+    font-size: 30px;
+    font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+	color: #FF1493;
+	background: #c6f4eb;
+	border-radius: 10px 20px; color: #184f45;
+	padding: 15px;
+	margin-left: 20px;
+	
+}
+
+
+.produto-descricao {
+    font-size: 18px;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 30px;
+
+}
+
+.produto-situação {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+	font-family: 'Quicksand', sans-serif;
+	padding-left: 40px;
+	background: #c6f4eb;
+	border-radius: 10px 20px; color: #184f45;
+	padding: 15px;
+	margin-left: 20px;
+}
+
+footer {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+#Rodapé {
+	height: 80px;
+	width: 80px;
+}
+
+ #Since {
+ 	font-size: 15px;
+	text-align: center;
+	padding: 10px;
+ }
+
+#informação {
+	font-size: 12px;
+	text-align: center;
+}
