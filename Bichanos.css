@@ -1,6 +1,6 @@
 header {
 	background: #BBBBBB;
-	padding: 20px 0;
+	padding: 20px;
 }
 
 #logo {
@@ -108,17 +108,18 @@ nav a {
 footer {
 	background: #BBBBBB;
 	padding: 20px 0;
+	font-family: 'Quicksand', sans-serif;
 }
 
 #Rodapé {
-	height: 80px;
+	height: 90px;
 	width: 80px;
 }
 
  #Since {
  	font-size: 15px;
 	text-align: center;
-	padding: 10px;
+	padding: 30px;
  }
 
 #informação {
